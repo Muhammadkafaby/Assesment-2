@@ -224,6 +224,7 @@ fun GridItem(Absensi: Absensi, onClick: () -> Unit) {
                 text = Absensi.nama,
                 maxLines = 2,
                 overflow = TextOverflow.Ellipsis,
+
 //
             )
             Text(
