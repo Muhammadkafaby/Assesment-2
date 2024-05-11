@@ -11,7 +11,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import org.d3if0149.myapplication.R
 import org.d3if0149.myapplication.ui.theme.myapplicationTheme
-
+//
 @Composable
 fun DisplayAlertDialog(
     openDialog: Boolean,
