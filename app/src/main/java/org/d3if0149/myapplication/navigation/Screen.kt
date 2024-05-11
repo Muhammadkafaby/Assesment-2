@@ -9,4 +9,3 @@ sealed class Screen(val route: String) {
     fun withId(id: Long) = "detailScreen/$id"
   }
 }
-//

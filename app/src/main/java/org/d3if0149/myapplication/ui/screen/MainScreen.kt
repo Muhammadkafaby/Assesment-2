@@ -225,7 +225,7 @@ fun GridItem(Absensi: Absensi, onClick: () -> Unit) {
                 maxLines = 2,
                 overflow = TextOverflow.Ellipsis,
 
-//
+
             )
             Text(
                 text = Absensi.absen,
@@ -246,4 +246,3 @@ fun ScreenPreview() {
         MainScreen(rememberNavController())
     }
 }
-//

@@ -20,8 +20,7 @@ interface AbsensiDao {
 
     @Query("SELECT * FROM Absensi WHERE id = :id")
     suspend fun getAbsensiById(id: Long): Absensi?
-//
+
     @Query("DELETE FROM Absensi WHERE id = :id")
     suspend fun deleteById(id: Long)
 }
-//
