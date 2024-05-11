@@ -13,7 +13,7 @@ class MainViewModel(dao: AbsensiDao) : ViewModel() {
         scope = viewModelScope,
         started = SharingStarted.WhileSubscribed(5000L),
         initialValue = emptyList()
-
+//
     )
 }
 
