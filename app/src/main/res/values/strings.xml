@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Absensi Sederhana</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="tambah_Absensi">Tambah Absensi</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_Absensi">Ubah Absensi</string>
+    <string name="invalid">Nama dan isi Absensi tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus Absensi</string>
+    <string name="kembali">Kembali</string>
+    <string name="judul">Nama</string>
+    <string name="isi_Absensi">Isi Absensi</string>
+    <string name="pesan_hapus">Hapus Absensi</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilkan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="dark_mode_on">darkMode</string>
+    <string name="dark_mode_off">LightMode</string>
+    <string name="hadir">Hadir</string>
+    <string name="sakit">Sakit</string>
+    <string name="tanpa_keterangan">Tanpa Keterangan</string>
+
+
+</resources>
