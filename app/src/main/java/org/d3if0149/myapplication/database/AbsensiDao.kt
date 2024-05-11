@@ -24,3 +24,4 @@ interface AbsensiDao {
     @Query("DELETE FROM Absensi WHERE id = :id")
     suspend fun deleteById(id: Long)
 }
+//
