@@ -72,7 +72,7 @@ fun DetailScreen(navController: NavHostController, id: Long? = null) {
         nama = data.nama
         absensi = data.absen
     }
-
+//
     Scaffold(
         topBar = {
             TopAppBar(

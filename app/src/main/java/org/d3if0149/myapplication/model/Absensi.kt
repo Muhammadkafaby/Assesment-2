@@ -11,3 +11,4 @@ data class Absensi(
     val absen: String,
     val tanggal: String
 )
+//
